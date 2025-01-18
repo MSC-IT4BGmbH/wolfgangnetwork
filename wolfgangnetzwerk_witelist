@@ -1,0 +1,34 @@
+# Whitelist für das Projekt Wolfgangnetzwerk in der Philharmonie Dresden
+# Diese Liste erlaubt den Zugriff auf spezifische Domains und Dienste, die für den Betrieb
+# der Wolfgangnetzwerk-App und die zugehörigen Systeme notwendig sind.
+
+# Erlaubte Domains für MSC ELBA und Wolfgangnetzwerk
+msc-elba.de
+*.msc-elba.de
+msc-elba.com
+*.msc-elba.com
+wolfgangapp.nl
+*.wolfgangapp.nl
+
+# Google Play Store - Notwendige Domains für App-Downloads und Updates
+play.google.com
+*.play.google.com
+googleusercontent.com
+*.googleusercontent.com
+gvt1.com
+*.gvt1.com
+
+# Apple App Store - Notwendige Domains für App-Downloads und Updates
+apple.com
+*.apple.com
+mzstatic.com
+*.mzstatic.com
+icloud.com
+*.icloud.com
+akamaitechnologies.com
+*.akamaitechnologies.com
+
+# Weitere essentielle Dienste
+app-measurement.com
+connectivitycheck.android.com
+clients3.google.com
